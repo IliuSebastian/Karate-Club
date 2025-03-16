@@ -24,6 +24,16 @@ h4 {
 }
 
 .about_imgs {
-    height: 300px;
-    width: 400px;
+    height: 370px;
+    width: 430px;
+}
+
+.img_article {
+    height: 900px;
+    width: 620px
+}
+
+.team_imgs {
+    height: 620px;
+    width: 420px;
 }
