@@ -37,3 +37,15 @@ h4 {
     height: 620px;
     width: 420px;
 }
+
+footer {
+    margin-top: auto;
+    left: 0;
+    bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    background-color: rgb(46, 45, 45);
+    color: white;
+    text-align: center;
+}
